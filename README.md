@@ -10,6 +10,7 @@ Here we provide the files of the IL-ECW dataset. The files are organized as foll
 
 - Inside the folder ***dataset_complete***  there are the SMILES and XYZ files of all ions generated in this study. The XYZ files correspond to the optimized geometries and are inside the folders  "cations_xyz" and "anions_xyz". The two "*.csv*" files contain the cations and anions SMILES.
 	- In each "*.csv*" file, there are also IDs for each ion. These IDs are used for the electrochemical window (ECW) calculation, both in the "*ecw.csv*" file and in the ECW calculator app (both explained below)
+	- Finally, each file contains the HOMO, LUMO, gap and total energy of each ion.
 
 - The "*ecw.csv*" (zipped into the "*ecw.zip*") file contains all ionic liquid pairs and their respective ECWs.
 
