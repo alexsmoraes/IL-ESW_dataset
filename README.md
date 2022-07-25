@@ -14,6 +14,8 @@ Here we provide the files of the IL-ECW dataset. The files are organized as foll
 
 - The `ecw.csv` (zipped into the `ecw.zip`) file contains all ionic liquid pairs and their respective ECWs.
 
+- Inside the folder json.zip there are two files, cations.json and anions.json, which are files in the json format that contain the following information for each cation and anion, respectively: smiles; core; backbones; initial XYZ, XYZ, HOMO, LUMO, HOMO/LUMO gap and magnetic moment after pre-optimization; and XYZ, HOMO, LUMO, HOMO/LUMO gap and magnetic moment after final optimization.
+
 - To make it easier to obtain the ECW for a specific cation-anion pair, we also developed an online app, which is a calculator for the ECW. The calculator can be accessed through [this link](https://ecw.pages.dev/) and the instructions for using it are given below.
 
 
