@@ -9,10 +9,10 @@ Here we provide the files of the IL-ESW dataset. The files are organized as foll
 - Inside the folder [cores_backbones](https://github.com/asmoraes92/IL-ESW_dataset/tree/main/cores_backbones) there are the SMILES and the XYZ files of all cores and backbones used in the study.
 
 - Inside the folder [dataset_complete](https://github.com/asmoraes92/IL-ESW_dataset/tree/main/dataset_complete) there are the SMILES and XYZ files of all ions generated in this study. The XYZ files correspond to the optimized geometries and are inside the folders  [cations_xyz](https://github.com/asmoraes92/IL-ESW_dataset/tree/main/dataset_complete/cations_xyz) and [anions_xyz](https://github.com/asmoraes92/IL-ESW_dataset/tree/main/dataset_complete/anions_xyz). The two `.csv` files contain the cations and anions SMILES.
-	- In each `.csv` file, there are also IDs for each ion. These IDs are used for the electrochemical window (ESW) calculation, both in the `ecw.csv` file and in the ESW calculator app (both explained below)
+	- In each `.csv` file, there are also IDs for each ion. These IDs are used for the electrochemical window (ESW) calculation, both in the `esw.csv` file and in the ESW calculator app (both explained below)
 	- Finally, each file contains the HOMO, LUMO, gap and total energy of each ion.
 
-- The `ecw.csv` (zipped into the `ecw.zip`) file contains all ionic liquid pairs and their respective ESWs.
+- The `esw.csv` (zipped into the `esw.zip`) file contains all ionic liquid pairs and their respective ESWs.
 
 - The files cations.json and anions.json are files in the json format that contain the following information for each cation and anion, respectively: HOMO, LUMO, Total Energy, cores and backbones for the fully optimized ions.
 
