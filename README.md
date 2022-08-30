@@ -1,5 +1,6 @@
 # Screening of the Role of Chemical Structure in the Electrochemical Stability Window of Ionic Liquids: DFT Calculations Combined with Data Mining
-#### Authors: [author1](link), [author2](link), [author3](link)
+#### Authors: [Alex S. Moraes](link), [Gabriel A. Pinheiro](link), [Tuanan C. Lourenço](link), [Mauro C. Lopes](link), [Marcos G. Quiles](link), [Luis G. Dias](link), [Juarez L. F. Da Silva](link)
+
 #### [Link to Paper](link)
 
 ### IL-ESW_dataset
